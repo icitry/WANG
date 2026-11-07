@@ -1,0 +1,67 @@
+{
+  "Version": 8,
+  "OriginX": 30,
+  "OriginY": 150,
+  "ZeroWidth": 400,
+  "ValueStep": 8,
+  "Windows": [
+    {
+      "Id": "0d2eccc8-252d-456e-8e0f-fa661cd61442",
+      "Name": "Draw at the cursor",
+      "Workspace": 0,
+      "ZOrder": 0,
+      "X": 900,
+      "Y": 650,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "bb86ed83-76d8-4094-9dff-ec32777e914d",
+      "Name": "Cursor X",
+      "Workspace": 0,
+      "ZOrder": 1,
+      "X": 600,
+      "Y": 650,
+      "Width": 400,
+      "Height": 322,
+      "State": "Normal"
+    },
+    {
+      "Id": "f27f2da2-7025-4b43-88c4-3ca41ade5a0f",
+      "Name": "Cursor Y",
+      "Workspace": 0,
+      "ZOrder": 2,
+      "X": 1200,
+      "Y": 650,
+      "Width": 400,
+      "Height": 326,
+      "State": "Normal"
+    },
+    {
+      "Id": "03eef98f-224d-48a9-a977-ea4c56a64381",
+      "Name": "Square width",
+      "Workspace": 0,
+      "ZOrder": 3,
+      "X": 900,
+      "Y": 400,
+      "Width": 424,
+      "Height": 338,
+      "State": "Normal"
+    },
+    {
+      "Id": "1bf4021a-10b1-432a-a41c-a1b05a8a990d",
+      "Name": "Square height",
+      "Workspace": 0,
+      "ZOrder": 4,
+      "X": 900,
+      "Y": 800,
+      "Width": 424,
+      "Height": 338,
+      "State": "Normal"
+    }
+  ],
+  "Workspaces": {
+    "0": "Follow the cursor"
+  }
+}

@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+.dotnet/
+.nuget/
+artifacts/
+*.user
+*.local.json
+.vs/
+.idea/
+*.suo
+.gitattributes
+.editorconfig

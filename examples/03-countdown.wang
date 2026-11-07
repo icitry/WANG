@@ -1,0 +1,203 @@
+{
+  "Version": 8,
+  "OriginX": 30,
+  "OriginY": 150,
+  "ZeroWidth": 400,
+  "ValueStep": 8,
+  "Windows": [
+    {
+      "Id": "d10bf012-bce5-408e-b5ad-ebee0a4013e2",
+      "Name": "Still above zero",
+      "Workspace": 1,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "dd4d3295-be11-44bc-9a89-39de9587944d",
+      "Name": "Right input",
+      "Workspace": 1,
+      "ZOrder": 1,
+      "X": 210,
+      "Y": 300,
+      "Width": 424,
+      "Height": 338,
+      "State": "Normal"
+    },
+    {
+      "Id": "0e51bced-5dd3-42b4-9b28-7af63609d97a",
+      "Name": "Shared result",
+      "Workspace": 1,
+      "ZOrder": 2,
+      "X": 250,
+      "Y": 249,
+      "Width": 400,
+      "Height": 342,
+      "State": "Normal"
+    },
+    {
+      "Id": "3b0ffd79-4324-440b-81d2-1b62e48e7fd3",
+      "Name": "One less",
+      "Workspace": 2,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "d37f0146-4bf3-4990-89e4-628846270537",
+      "Name": "Right input",
+      "Workspace": 2,
+      "ZOrder": 1,
+      "X": 950,
+      "Y": 300,
+      "Width": 408,
+      "Height": 350,
+      "State": "Normal"
+    },
+    {
+      "Id": "f0b4c0d5-de76-49da-a13a-691684776aef",
+      "Name": "Left input",
+      "Workspace": 2,
+      "ZOrder": 2,
+      "X": 326,
+      "Y": 300,
+      "Width": 424,
+      "Height": 338,
+      "State": "Normal"
+    },
+    {
+      "Id": "fd064abf-cb61-4dfa-bf08-22cf10fc68aa",
+      "Name": "Shared result",
+      "Workspace": 2,
+      "ZOrder": 3,
+      "X": 250,
+      "Y": 247,
+      "Width": 400,
+      "Height": 346,
+      "State": "Normal"
+    },
+    {
+      "Id": "33297434-036d-4465-9d23-7eb6889a74e7",
+      "Name": "Choose a path",
+      "Workspace": 3,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "6aace9db-1ff3-4ddf-b565-90fbef9f943f",
+      "Name": "Condition",
+      "Workspace": 3,
+      "ZOrder": 1,
+      "X": 350,
+      "Y": 300,
+      "Width": 400,
+      "Height": 342,
+      "State": "Normal"
+    },
+    {
+      "Id": "3accb6da-0431-45a1-9549-8990935be33a",
+      "Name": "Choice",
+      "Workspace": 3,
+      "ZOrder": 2,
+      "X": 950,
+      "Y": 300,
+      "Width": 400,
+      "Height": 346,
+      "State": "Normal"
+    },
+    {
+      "Id": "76ccbabd-aee9-4de5-b282-580a82c65961",
+      "Name": "Choice",
+      "Workspace": 3,
+      "ZOrder": 3,
+      "X": 650,
+      "Y": 40,
+      "Width": 400,
+      "Height": 358,
+      "State": "Normal"
+    },
+    {
+      "Id": "1e1e90ed-bf09-4b78-96b9-a97b9499cbf0",
+      "Name": "Shared result",
+      "Workspace": 3,
+      "ZOrder": 4,
+      "X": 250,
+      "Y": 243,
+      "Width": 400,
+      "Height": 354,
+      "State": "Normal"
+    },
+    {
+      "Id": "36545aaf-1678-4833-8485-b3e347a15267",
+      "Name": "Advance the countdown",
+      "Workspace": 4,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "879a54d4-b397-4772-8db0-5d36d839a317",
+      "Name": "Next value",
+      "Workspace": 4,
+      "ZOrder": 1,
+      "X": 350,
+      "Y": 300,
+      "Width": 400,
+      "Height": 354,
+      "State": "Normal"
+    },
+    {
+      "Id": "592c3e42-b4ae-45c9-958b-bc23ab236eed",
+      "Name": "Remember next tick",
+      "Workspace": 4,
+      "ZOrder": 2,
+      "X": 1050,
+      "Y": 251,
+      "Width": 424,
+      "Height": 338,
+      "State": "Normal"
+    },
+    {
+      "Id": "b7fd6679-dc4f-465e-9f7b-72187df486e1",
+      "Name": "Countdown",
+      "Workspace": 0,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "1c6dd5f3-6c27-4c48-9d9c-9bbde151d534",
+      "Name": "Program result",
+      "Workspace": 0,
+      "ZOrder": 1,
+      "X": 326,
+      "Y": 300,
+      "Width": 424,
+      "Height": 338,
+      "State": "Normal"
+    }
+  ],
+  "Workspaces": {
+    "0": "Countdown",
+    "1": "Still above zero",
+    "2": "One less",
+    "3": "Choose a path",
+    "4": "Advance the countdown"
+  }
+}
