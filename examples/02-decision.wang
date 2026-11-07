@@ -1,0 +1,124 @@
+{
+  "Version": 8,
+  "OriginX": 30,
+  "OriginY": 150,
+  "ZeroWidth": 400,
+  "ValueStep": 8,
+  "Windows": [
+    {
+      "Id": "7e456138-d946-4379-9b92-f3fa229913a5",
+      "Name": "Compare",
+      "Workspace": 1,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 416,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "300b5365-608f-497f-b3c2-1afe313a1c32",
+      "Name": "Right input",
+      "Workspace": 1,
+      "ZOrder": 1,
+      "X": 210,
+      "Y": 300,
+      "Width": 424,
+      "Height": 342,
+      "State": "Normal"
+    },
+    {
+      "Id": "dcebeddb-38ab-4b6d-bcc7-d89cceddfdfb",
+      "Name": "Shared result",
+      "Workspace": 1,
+      "ZOrder": 2,
+      "X": 250,
+      "Y": 251,
+      "Width": 400,
+      "Height": 338,
+      "State": "Normal"
+    },
+    {
+      "Id": "f04ece85-cbac-473d-b340-014109def6ad",
+      "Name": "Choose a path",
+      "Workspace": 2,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "74c9a5be-0043-448d-8fb0-e153f6c76510",
+      "Name": "Condition",
+      "Workspace": 2,
+      "ZOrder": 1,
+      "X": 350,
+      "Y": 300,
+      "Width": 400,
+      "Height": 338,
+      "State": "Normal"
+    },
+    {
+      "Id": "238864d9-3aae-4aaa-bdad-5ab1506f66ab",
+      "Name": "Choice",
+      "Workspace": 2,
+      "ZOrder": 2,
+      "X": 950,
+      "Y": 300,
+      "Width": 480,
+      "Height": 350,
+      "State": "Normal"
+    },
+    {
+      "Id": "f7046e69-f3f2-44db-9360-10deb3f0ed00",
+      "Name": "Choice",
+      "Workspace": 2,
+      "ZOrder": 3,
+      "X": 570,
+      "Y": 40,
+      "Width": 560,
+      "Height": 354,
+      "State": "Normal"
+    },
+    {
+      "Id": "9d9b1a79-858e-49ea-a20b-47836d81b287",
+      "Name": "Shared result",
+      "Workspace": 2,
+      "ZOrder": 4,
+      "X": 250,
+      "Y": 247,
+      "Width": 400,
+      "Height": 346,
+      "State": "Normal"
+    },
+    {
+      "Id": "2df123e1-ef49-42b7-8dd4-a5e4fb6c2e0e",
+      "Name": "Choose automatically",
+      "Workspace": 0,
+      "ZOrder": 0,
+      "X": 650,
+      "Y": 300,
+      "Width": 400,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "77a4d494-3c2f-4e8c-b56e-b4c736b608c5",
+      "Name": "Program result",
+      "Workspace": 0,
+      "ZOrder": 1,
+      "X": 350,
+      "Y": 300,
+      "Width": 400,
+      "Height": 346,
+      "State": "Normal"
+    }
+  ],
+  "Workspaces": {
+    "0": "Choose automatically",
+    "1": "Compare",
+    "2": "Choose a path"
+  }
+}

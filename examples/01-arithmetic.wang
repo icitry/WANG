@@ -1,0 +1,34 @@
+{
+  "Version": 8,
+  "OriginX": 30,
+  "OriginY": 150,
+  "ZeroWidth": 400,
+  "ValueStep": 8,
+  "Windows": [
+    {
+      "Id": "196a08b3-7f3e-4127-a601-f67a82fa224c",
+      "Name": "Receiver",
+      "Workspace": 0,
+      "ZOrder": 0,
+      "X": 420,
+      "Y": 300,
+      "Width": 416,
+      "Height": 240,
+      "State": "Normal"
+    },
+    {
+      "Id": "28b100d6-3e45-4bf0-bc91-11aeaf1b3bc8",
+      "Name": "Input",
+      "Workspace": 0,
+      "ZOrder": 1,
+      "X": 150,
+      "Y": 300,
+      "Width": 424,
+      "Height": 240,
+      "State": "Normal"
+    }
+  ],
+  "Workspaces": {
+    "0": "Main"
+  }
+}
